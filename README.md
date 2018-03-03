@@ -1,0 +1,2 @@
+# Kalman-filters
+The objective of this project is to estimate the states of the system to optimize the compensation that is made by the cart to keep the pendulum upright. Randomly generated noise profiles are added to the true measurement data generated using the dynamics of the system. This data is later used for estimation of states of the system using Kalman Filter and Extended Kalman Filter. These results of these estimations are analyzed and compared.
